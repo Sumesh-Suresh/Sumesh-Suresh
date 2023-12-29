@@ -3,7 +3,7 @@ I am Sumesh K S, a master student at Carnegie Mellon University focusing on Robo
 
 - 🔭 I have worked as a research assistant in the Mechanical and AI lab under Dr. Amir Barati Farimani with research focus on the task for for fast, cheap and robust inference for the task of image super resolution.
 - 🌱 My interests are in the field of Deep Learning, Computer Vision, Robotics, Automotive Engineering, Mechanical Design and Manufacturing Technologies.
-- 🤔 I am looking for full time positions in the field of Machine Learning, Robotics and Mechanical Engineering
+- 🤔 I am looking for full time positions in the field of Machine Learning, Robotics and Mechanical Engineering.
 - 📫 You can reach me at:
   
   <p>
